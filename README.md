@@ -3,7 +3,7 @@
 ### Primeiro repositório
 ### Instrutor [Venilton FalvoJr](https://www.linkedin.com/in/falvojr/)
 Este repositório foi criado como parte do desafio de projeto do curso básico de Git/GitHub da DIO.  
-#### Os alunos aprendero 
+#### Os alunos aprenderam 
 A utilizar os principais comandos do Git e são incentivados a criar seu primeiro repositório no GitHub para praticar os conceitos aprendidos durante o curso.
 
 ## Links Úteis
