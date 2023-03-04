@@ -1,4 +1,4 @@
-# Aprendo Git/GitHub 
+# Aprendendo Git/GitHub 
 ## Desafio de projeto da plataforma DIO 
 ### Primeiro repositório
 ### Instrutor [Venilton FalvoJr](https://www.linkedin.com/in/falvojr/)
