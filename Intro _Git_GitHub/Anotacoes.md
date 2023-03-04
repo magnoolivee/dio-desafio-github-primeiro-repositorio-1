@@ -1,4 +1,4 @@
-## Durante o curso, aprendi:
+### Durante o curso, aprendi:
 - Clonar um repositório diretamente na minha máquina local
 - Utilizar o versionamento de código 
 - Enviar o projeto para o GitHub.
