@@ -1,6 +1,6 @@
-# Aprendendo Git/GitHub 
-## Desafio de projeto da plataforma DIO 
-### Primeiro repositório
+# Script de Provisionamento
+## Servidor Web (Apache)
+### Desafio de projeto da plataforma DIO 
 ### Instrutor [Venilton FalvoJr](https://www.linkedin.com/in/falvojr/)
 Este repositório foi criado como parte do desafio de projeto do curso básico de Git/GitHub da DIO.  
 #### Os alunos aprenderam 
