@@ -1,4 +1,5 @@
-# Aprendendo Git/GitHub 
+# Projeto Acadêmico 
+## Aprendendo Git/GitHub 
 ## Desafio de projeto da plataforma DIO 
 #### Instrutor [Venilton FalvoJr](https://www.linkedin.com/in/falvojr/)
 Este repositório foi criado como parte do desafio de projeto do curso básico de Git/GitHub da DIO.  
